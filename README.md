@@ -5,7 +5,7 @@
   <img height="180em" src="https://i.gifer.com/5eKX.gif" alt="Novo GIF">
 
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBB01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBB01&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBB01&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
 
