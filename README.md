@@ -44,8 +44,40 @@
  
 </div>
   
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurBB01/ArthurBB01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurBB01/ArthurBB01/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurBB01/ArthurBB01/output/github-contribution-grid-snake.svg">
+</picture>
+O ChatGPT disse:
+ChatGPT
+O código que você forneceu está quase correto, mas você tem um pequeno erro na tag <picture>. A tag <picture> não é válida para o atributo align, e é importante lembrar que o uso do <img> dentro de <picture> é para fornecer imagens alternativas com base nas condições de mídia, como o modo escuro ou claro, mas a sintaxe para centralizar a imagem não está correta.
+
+Aqui está a versão corrigida do seu código, com algumas melhorias:
+
+markdown
+Copiar código
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurBB01/ArthurBB01/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurBB01/ArthurBB01/output/github-contribution-grid-snake-light.svg">
   <img src="https://raw.githubusercontent.com/ArthurBB01/ArthurBB01/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" style="display:block; margin:auto;">
 </picture>
+O que foi alterado:
+Centralização: O atributo align="center" não é válido em <img>. Para centralizar a imagem, usei o estilo style="display:block; margin:auto;", que funciona para centralizar a imagem em páginas HTML e também no GitHub Markdown.
+Modo claro/escuro: Verifiquei que você está tentando exibir imagens diferentes dependendo do esquema de cores (escuro ou claro). Certifique-se de que as imagens github-contribution-grid-snake-dark.svg e github-contribution-grid-snake-light.svg existam nos caminhos fornecidos.
+Isso deve resolver o problema de alinhamento e garantir que as imagens sejam exibidas corretamente, dependendo do tema (claro ou escuro) do usuário. Tente esse código no seu README e veja se a animação aparece corretamente!
+
+
+
+Obtenha respostas mais inteligentes, carregamento de imagens e de arquivos e muito mais.
+
+Entrar
+
+Cadastrar
+
+
+
+Raciocine
+
+P
+  
