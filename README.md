@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile%21+%3C%5B%28%20%EF%BC%81%EF%BC%89%3E" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile" alt="Typing SVG">
   </a>
 </div>
-##
+
 
 <div>
   
