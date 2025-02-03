@@ -1,5 +1,4 @@
 
-![Descrição do GIF](https://media2.giphy.com/media/IXjj4sUrrX2ypTz2Ry/giphy.gif?cid=6c09b952d0zxrppsvcq935bdyfuv9b4aihybqb0fg1yput3u&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
