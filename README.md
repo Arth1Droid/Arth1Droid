@@ -1,6 +1,6 @@
 # Arthur Barros
 
-** Systems Analysis and Development (ADS) student**
+**` Systems Analysis and Development (ADS) student `**
 
 My name is Arthur Barros, I'm 19 years old, and I'm from Brazil. I am currently pursuing a degree in Systems Analysis and Development at UNIT. I am interested in areas such as web development, programming, and digital innovation.
 
