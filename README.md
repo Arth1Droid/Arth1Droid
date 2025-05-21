@@ -11,8 +11,8 @@ My name is Arthur Barros, I'm 19 years old, and I'm from Brazil. I am currently 
 
 
 
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurBB01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBB01&layout=compact&langs_count=16&theme=react"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Arth1Droid&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arth1Droid&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
 
@@ -50,7 +50,7 @@ My name is Arthur Barros, I'm 19 years old, and I'm from Brazil. I am currently 
  
 </div>
   
-![snake gif](https://github.com/ArthurBB01/ArthurBB01/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Arth1Droid/Arth1Droid/blob/output/github-snake-dark.svg)
 
 
 
