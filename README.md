@@ -42,5 +42,10 @@ My name is Arthur Barros, I'm 19 years old, and I'm from Brazil. I am currently 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-barros-387099213/)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arth1Droid/Arth1Droid/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arth1Droid/Arth1Droid/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Arth1Droid/Arth1Droid/output/pacman-contribution-graph.svg">
+</picture>
 
-![Pac-Man](https://raw.githubusercontent.com/Arth1Droid/Arth1Droid/output/pacman-contribution-graph.svg)
+_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
