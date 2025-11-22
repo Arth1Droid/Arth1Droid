@@ -43,4 +43,4 @@ My name is Arthur Barros, I'm 19 years old, and I'm from Brazil. I am currently 
 
 ---
 
-![snake gif](https://github.com/Arth1Droid/Arth1Droid/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Arth1Droid/Arth1Droid/output/github-snake-dark.svg)
