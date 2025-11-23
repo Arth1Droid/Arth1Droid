@@ -40,7 +40,7 @@ My name is Arthur Barros, I'm 19 years old, and I'm from Brazil. I am currently 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-barros-387099213/)
 
 ---
-![snake gif](https://raw.githubusercontent.com/Arth1Droid/Arth1Droid/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Arth1Droid/Arth1Droid/output/github-contribution-grid-snake-dark.svg)
 
 
 
