@@ -7,9 +7,10 @@ My name is Arthur Barros, I'm 19 years old, and I'm from Brazil. I am currently 
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arth1Droid&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arth1Droid&layout=compact&langs_count=8&theme=github_dark&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arth1Droid&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arth1Droid&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 </div>
+
 
 ---
 
