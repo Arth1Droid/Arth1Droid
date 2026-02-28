@@ -5,14 +5,17 @@
 My name is Arthur Barros, I'm 19 years old, and I'm from Brazil. I am currently pursuing a degree in Systems Analysis and Development at UNIT. I am interested in areas such as web development, programming, and digital innovation.
 
 ---
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arth1Droid&show_icons=true&theme=radical&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arth1Droid&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-eight-henna.vercel.app/api?username=Arth1Droid&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-eight-henna.vercel.app/api/top-langs/?username=Arth1Droid&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
+<br/>
 
----
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Arth1Droid&theme=radical"/>
+</div>
+
 
 ### Main Stack:
 
